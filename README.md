@@ -1,1 +1,1 @@
-# princess-main.py為主程式
+# main.py為主程式
